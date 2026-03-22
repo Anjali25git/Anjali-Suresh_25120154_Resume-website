@@ -1,0 +1,27 @@
+
+.title1{
+position: relative;
+left: 800px;
+bottom: 500px;
+font-size:xx-large;
+font-weight: 600;
+color: #151361;
+}
+
+*{
+    background-color:#FDFBD4;
+}
+.pp{
+ border: #151361;
+ border-width: 20px;
+ border-style: solid;
+        }
+
+.View{
+    background-color: #151361;
+    color: #FDFBD4;
+    size: 50px;
+    position: relative;
+    left: 800px;
+  bottom: 500px;
+}

@@ -1,0 +1,121 @@
+
+
+h1{
+    text-align: center;
+    color: #151361;
+    
+}
+
+.navbar {
+    display: flex;                /* 1. Turns on the flex layout */
+    justify-content: space-between; /* 2. Pushes logo to left, links to right */
+    align-items: center;          /* 3. Centers items vertically */
+    padding: 10px 50px;           /* 4. Adds "breathing room" on the sides */
+    background-color:#FDFBD4;
+    border-color:#151361;
+    border-width: 5px;
+    color: #151361;
+    border-style: solid;
+}
+
+.nav-links {
+    display: flex;                /* 5. Makes the list items sit in a row */
+    list-style: none;             /* 6. Removes the bullet points */
+    margin: 5px;
+    padding: 5px;
+}
+.nav-links li {
+    margin-left: 20px;            /* 7. Adds space between each link */
+}
+
+.pic1{
+border-color: #151361;
+border-radius: 20px;
+border-width: 5px;
+border-style: solid;
+width: 20%;
+height: 5%;
+        /* Pushes image to the right */       /* Adds a gap so text doesn't touch the image */
+    margin-bottom: 20px;
+    margin-right: 800px;
+    margin-top: 100px;
+     margin-left: 5%;
+}
+
+.box1{
+    background-color:#151361;
+    color: #FDFBD4;
+    width: 30%;
+    height: 20%;
+    padding: 20px;
+    font-size: medium;
+    font-family: "Playfair Display", serif;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  border-radius: 20px 80px;
+  margin-left: 5%;
+  border: 20px solid #FDFBD4;
+}
+
+.box2{
+    color: #151361;
+    background-color: #FDFBD4;
+    width: 30%;
+    height: 20%;
+    padding: 20px;
+    font-size: medium;
+  font-family: "Playfair Display", serif;
+  font-weight: weight;
+  border-radius: 20px 80px;
+  margin-left:auto; 
+  margin-right:5%;
+  border: 20px solid  #151361;
+  position: relative;
+  bottom: 500px;
+}
+.box3{
+    background-color: #151361;
+    color: #FDFBD4;
+    width: 30%;
+    height: 20%;
+    padding: 20px;
+    font-size: medium;
+    font-family: "Playfair Display", serif;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  border-radius: 20px 80px;
+  margin-left: 5%;
+  border: 20px solid #FDFBD4;
+  position: relative;
+  bottom: 500px;
+}
+
+.box4{
+    color: #151361;
+    background-color: #FDFBD4;
+    width: 30%;
+    height: 20%;
+    padding: 20px;
+    font-size: medium;
+  font-family: "Playfair Display", serif;
+  font-weight: weight;
+  border-radius: 20px 80px;
+  margin-left:auto; 
+  margin-right:5%;
+  border: 20px solid  #151361;
+  position: relative;
+  bottom: 500px;
+}
+
+.box5{
+  background-color: #151361;
+  border: #FDFBD4 5px solid;
+  color: #FDFBD4;
+  padding: 5px;
+  position: relative;
+  bottom:500px;
+}
